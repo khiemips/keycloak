@@ -6,3 +6,5 @@
 /WebApp/bin/Debug/netcoreapp2.0
 /WebApp/obj
 /packages
+/WebApi/bin/Debug/netcoreapp2.0
+/WebApi/obj
