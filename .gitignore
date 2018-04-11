@@ -5,3 +5,4 @@
 /.vs
 /WebApp/bin/Debug/netcoreapp2.0
 /WebApp/obj
+/packages
