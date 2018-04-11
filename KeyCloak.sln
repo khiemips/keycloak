@@ -5,7 +5,15 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{0FC1D124-DD6D-40E1-8B86-1E96E2F726CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{4776770A-8652-4780-B185-C3EF6324B1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{4776770A-8652-4780-B185-C3EF6324B1B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{DB45EFD3-DE04-4323-9D00-A9F4AA031CBC}"
+	ProjectSection(SolutionItems) = preProject
+		docs\api-app-protected-by-keycloak.png = docs\api-app-protected-by-keycloak.png
+		README.md = README.md
+		docs\realm-ufab.json = docs\realm-ufab.json
+		docs\web-mvc-protected-by-keycloak.png = docs\web-mvc-protected-by-keycloak.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
